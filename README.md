@@ -1,2 +1,17 @@
-# data-analytics-learning-journey
-Learning Data Analytics from Data with Baraa YouTube channel. This repository contains my SQL, Python, and Pandas practice files and projects to track my progress.
+# Data Analytics Learning Journey
+
+Hi, I am Trisha.
+
+This repository tracks my progress while learning Data Analytics from the Data with Baraa YouTube channel.
+
+## Topics
+
+* SQL
+* Python
+* Pandas
+* Data Analysis Projects
+
+## Goal
+
+Become a Data Analyst / Data Scientist by 2026.
+
