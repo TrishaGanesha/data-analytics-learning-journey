@@ -2,7 +2,7 @@
 
 Hi, I am Trisha.
 
-This repository tracks my progress while learning Data Analytics from the Data with Baraa YouTube channel.
+This repository tracks my progress while learning Data Analytics from udemy and  Data with Baraa YouTube channel.
 
 ## Topics
 
