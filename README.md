@@ -1,4 +1,4 @@
-# Data Analytics Practice –
+# Data Analytics Practice –Python and SQL
 
 ## Overview
 
